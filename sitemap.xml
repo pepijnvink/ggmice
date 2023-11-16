@@ -7,6 +7,9 @@
     <loc>http://amices.org/ggmice/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
+    <loc>http://amices.org/ggmice/CONTRIBUTING.html</loc>
+  </url>
+  <url>
     <loc>http://amices.org/ggmice/LICENSE.html</loc>
   </url>
   <url>
@@ -40,9 +43,6 @@
     <loc>http://amices.org/ggmice/reference/index.html</loc>
   </url>
   <url>
-    <loc>http://amices.org/ggmice/reference/pat_to_chr.html</loc>
-  </url>
-  <url>
     <loc>http://amices.org/ggmice/reference/pipe.html</loc>
   </url>
   <url>
@@ -59,9 +59,6 @@
   </url>
   <url>
     <loc>http://amices.org/ggmice/reference/plot_trace.html</loc>
-  </url>
-  <url>
-    <loc>http://amices.org/ggmice/reference/plot_variance.html</loc>
   </url>
   <url>
     <loc>http://amices.org/ggmice/reference/stripplot.html</loc>
